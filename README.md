@@ -444,6 +444,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Provides real-time translation of text, documents, and content between multiple languages.
 
 - <img src="https://laratranslate.com/favicon.ico" height="14"/> [Lara](https://github.com/translated/lara-mcp)<sup><sup>⭐</sup></sup> - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations
+- <img src="https://pronounce.renlab.ai/favicon-32.png" height="14"/> [Pronounce](https://github.com/anzy-renlab-ai/pronounce/tree/main/mcp-server) - Community pronunciation dictionary for developer jargon (kubectl, nginx, GIF, JSON — 1,650+ entries with source citations), with tools to look up, search, and list pronunciations
 
 <br />
 
